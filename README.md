@@ -8,7 +8,6 @@ Candles made of Art Gobblers Goo
 git clone https://github.com/0x0aa0/goo-candles
 cd goo-candles
 forge install
-forge build
 ```
 
 ### Run Tests
